@@ -1,6 +1,6 @@
 # Jorge Alejandro Zúñiga Bejarano  
 *(Alex Zuni)*  
-![Profile Picture](img/profile.jpg) 
+![Profile Picture](img/profile.JPG) 
 
 ---
 
