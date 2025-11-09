@@ -3,10 +3,11 @@
 
 @import "{{ site.theme }}";
 
-img {
+.wrapper img,
+.content img,
+.markdown-body img {
     display: block;
-    max-width: 40%;
-    width: 100%;
+    max-width: 50%;
     height: auto;
     margin: 0 auto;
 }

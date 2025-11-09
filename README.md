@@ -1,12 +1,12 @@
-# Jorge Alejandro Zúñiga Bejarano  
-*(Alex Zuni)*  
+## Jorge Alejandro Zúñiga Bejarano  
+<!-- *(Alex Zuni)*   -->
 ![Profile Picture](img/profile.JPG) 
 
 ---
 
 ## 👋 About Me
 
-Hi, I’m **Jorge (Alex) Zúñiga**, an engineer and musician exploring how **technology shapes the way we create and experience sound**.  
+Hi, I’m **Alejandro (Alex) Zúñiga**, an engineer and musician exploring how **technology shapes the way we create and experience sound**.  
 I’m currently a **DSP Software Engineer at Yamaha Corporation** in Japan, where I develop and optimize real-time audio effects for professional mixing consoles.  
 
 My background blends **electronics, signal processing, and creative coding**, and my goal is to design tools that make high-quality sound creation more expressive and accessible.  
