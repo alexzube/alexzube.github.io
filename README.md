@@ -1,10 +1,27 @@
+<!-- TODO: -->
+<!-- que esta pagina sea para parrafitos de introduccion(mini statement of purpose) -->
+<!-- poner mas info de lo k hice en yamaha interphace y EQ6-->
+<!-- poner mas info de hoobies y my personalidad -->
+<!-- link al cv (en formato markdown o nommas el pdf) -->
+
+
 ## Jorge Alejandro Zúñiga Bejarano  
+
+- [About Me](#about-me)
+- [Research Interests](#research-interests)
+- [Education](#education)
+- [Professional Experience](#professional-experience)
+- [Selected Projects](#selected-projects)
+- [Publications & Presentations](#publications--presentations)
+- [Hobbies & Interests](#hobbies--interests)
+- [Contact](#contact)
 <!-- *(Alex Zuni)*   -->
+---
 ![Profile Picture](img/profile.JPG) 
 
----
 
-## 👋 About Me
+
+## About Me
 
 Hi, I’m **Alejandro (Alex) Zúñiga**, an engineer and musician exploring how **technology shapes the way we create and experience sound**.  
 I’m currently a **DSP Software Engineer at Yamaha Corporation** in Japan, where I develop and optimize real-time audio effects for professional mixing consoles.  
@@ -15,7 +32,7 @@ I’m applying to **PhD programs in Music Technology** in the U.S., aiming to re
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Audio Signal Processing  
 - Sound Synthesis and Physical Modeling  
@@ -26,7 +43,7 @@ I’m applying to **PhD programs in Music Technology** in the U.S., aiming to re
 
 ---
 
-## 🎓 Education
+## Education
 
 **Queen Mary University of London** — *MEng Electronics with Music and Audio Systems*  
 *2015 – 2019*  
@@ -39,7 +56,7 @@ I’m applying to **PhD programs in Music Technology** in the U.S., aiming to re
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Yamaha Corporation** – *DSP Software Engineer*  
 *Hamamatsu, Japan | Jan 2021 – Present*  
@@ -55,7 +72,7 @@ I’m applying to **PhD programs in Music Technology** in the U.S., aiming to re
 
 ---
 
-## 🧠 Selected Projects
+## Selected Projects
 
 ### 🎵 Birdsong Procedural Synthesis  
 Developed a synthesis algorithm that models bird song using **Particle Swarm Optimization**, generating realistic imitations of multiple species.  
@@ -83,7 +100,7 @@ A point-and-click horror game built with JavaScript, combining audio design and 
 
 ---
 
-## 📚 Publications & Presentations
+## 📚 Publications & Presentations {#publications--presentations}
 
 **Zúñiga, J. & Reiss, J. D. (2019).**  
 *Realistic Procedural Sound Synthesis of Bird Song Using Particle Swarm Optimization.*  
@@ -92,7 +109,7 @@ Audio Engineering Society, Paper 555.
 
 ---
 
-## ☕ Hobbies & Interests
+## ☕ Hobbies & Interests {#hobbies--interests}
 
 When I’m not programming or experimenting with sound, you’ll probably find me:  
 - Playing **guitar** or **drums**, lately getting deep into **jazz** (after years of rock and blues).  
@@ -101,7 +118,7 @@ When I’m not programming or experimenting with sound, you’ll probably find m
 
 ---
 
-## 📫 Contact
+## 📫 Contact {#contact}
 
 - 📧 **jorgealejandrozb@gmail.com**  
 - 🌐 [WordPress Blog](https://jorgezunigablog.wordpress.com/)  
