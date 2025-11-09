@@ -1,7 +1,7 @@
 <!-- TODO: -->
 <!-- que esta pagina sea para parrafitos de introduccion(mini statement of purpose) -->
 <!-- poner mas info de lo k hice en yamaha interphace y EQ6-->
-<!-- poner mas info de hoobies y my personalidad -->
+<!-- poner mas info de hoobies y my personalidad y el dist mxr-->
 <!-- link al cv (en formato markdown o nommas el pdf) -->
 
 
