@@ -2,3 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
+img {
+    display: block;
+    max-width: 40%;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
