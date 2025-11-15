@@ -16,6 +16,7 @@
 - [Hobbies & Interests](#hobbies--interests)
 - [Contact](#contact)
 <!-- *(Alex Zuni)*   -->
+
 ---
 ![Profile Picture](img/profile.JPG) 
 
@@ -28,7 +29,7 @@ I’m currently a **DSP Software Engineer at Yamaha Corporation** in Japan, wher
 
 My background blends **electronics, signal processing, and creative coding**, and my goal is to design tools that make high-quality sound creation more expressive and accessible.  
 
-I’m applying to **PhD programs in Music Technology** in the U.S., aiming to research real-time sound synthesis, physical modeling, and intelligent audio systems that bridge artistry and engineering.
+I’m applying to **PhD programs in Music Technology**, aiming to research real-time sound synthesis, physical modeling, and intelligent audio systems that bridge artistry and engineering.
 
 ---
 
