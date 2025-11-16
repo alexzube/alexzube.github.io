@@ -24,12 +24,12 @@
 
 ## About Me
 
-Hi, I’m **Alejandro (Alex) Zúñiga**, an engineer and musician exploring how **technology shapes the way we create and experience sound**.  
-I’m currently a **DSP Software Engineer at Yamaha Corporation** in Japan, where I develop and optimize real-time audio effects for professional mixing consoles.  
+Hi, I’m Alejandro Zúñiga, an engineer exploring how technology shapes the way we create and experience sound.
+I’m currently a DSP Software Engineer at Yamaha Corporation in Japan, where I develop and optimize real-time audio effects for professional mixing consoles.
 
-My background blends **electronics, signal processing, and creative coding**, and my goal is to design tools that make high-quality sound creation more expressive and accessible.  
+My background blends electronics, signal processing, and creative coding, and my goal is to design tools that make high-quality sound creation more expressive and accessible.
 
-I’m applying to **PhD programs in Music Technology**, aiming to research real-time sound synthesis, physical modeling, and intelligent audio systems that bridge artistry and engineering. I think the most meaningful sound technologies are those that democratize creativity making expression accessible to everyone.
+I’m applying to PhD programs in Music Technology, aiming to research real-time sound synthesis, physical modeling, and intelligent audio systems that bridge artistry and engineering. I think the most meaningful sound technologies are those that democratize creativity making expression accessible to everyone.
 
 ---
 
@@ -66,7 +66,7 @@ I’m applying to **PhD programs in Music Technology**, aiming to research real-
 - Designed and optimized real-time audio effects systems in C/C++ and embedded DSP.  
 - Collaborated with cross-division R&D teams and contributed to internal prototypes.  
 
-After graduating my Masters I did a 3 month internship and subsequently have spent 4 years working at Yamaha Professional Audio in Hamamatsu with the DSP team on development and maintenance of audio effects for digital mixing consoles and other platforms. I was the main developer for **Interphase** and **DynamicEQ6**, responsible for the DSP algorithms (mainly C++), GUI design, and implementing on SHARC and Yamaha DSP chips, ensuring cross-platform compatibility across consoles and operating systems.
+After graduating my Masters I did a 3 month internship and subsequently have spent 4 years working at Yamaha Professional Audio in Hamamatsu with the DSP team on development and maintenance of audio effects for digital mixing consoles and other platforms. I was the main developer for Interphase and DynamicEQ6, responsible for the DSP algorithms (mainly C++), GUI design, and implementing on SHARC and Yamaha DSP chips, ensuring cross-platform compatibility across consoles and operating systems.
 
 <div style="overflow-x:auto;">
   <div style="display:flex;gap:1rem;flex-wrap:nowrap;min-width:640px;">
