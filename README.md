@@ -86,6 +86,7 @@ I had the pleasure of presenting the work I did during my Masters at my first AE
 
 - [View Publication](https://aes2.org/publications/elibrary-page/?id=20578)
 - [Try the model online](https://nemisindo.com/models/birds-real)
+  - I recommend setting a preset and pressing the play button to listen.
 - [Slides from AES presentation](https://docs.google.com/presentation/d/1jN4gJz_u_SNQ29tM2SL9W5E5qZ2NENw_JlOcnk9y8_w/edit?usp=sharing)
 
 
