@@ -96,7 +96,12 @@ I had the pleasure of presenting the work I did during my Masters at my first AE
 ### 🥁 Embedded Drum Machine  
 - Real-time embedded drum system using the BELA platform with piezo sensors for hit detection, loop editing, and simple on-board effects.  
 - Implemented sample playback, looping, and low-latency reverb in C++.
-<iframe width="320" height="180" src="https://youtu.be/rPZqWFPeOiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div style="overflow-x:auto;">
+  <div style="display:flex;gap:1rem;flex-wrap:nowrap;min-width:640px;">
+    <iframe width="320" height="180" src="https://youtu.be/rPZqWFPeOiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
 
 ### 🎸 Eightyfier – 80’s Guitar Effect Plugin  
 A **VST plugin** recreating classic 1980s guitar tones using multi-effects DSP.  
@@ -113,18 +118,6 @@ Your browser does not support the audio tag.
 <audio src="/assets/videosAudio/highGain.mp3" controls>
 Your browser does not support the audio tag.
 </audio>
-
-<div style="overflow-x:auto;">
-  <div style="display:flex;gap:1rem;flex-wrap:nowrap;min-width:640px;">
-    <video width="320" height="180" controls>
-      <source src="/assets/videos/WIN_20230702_18_11_24_Pro.mp4" type="video/mp4">
-    </video>
-    <video width="320" height="180" controls>
-      <source src="/assets/videos/WIN_20230702_18_13_24_Pro.mp4" type="video/mp4">
-    </video>
-  </div>
-</div>
-<br>
 
 ---
 
