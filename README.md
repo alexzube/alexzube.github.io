@@ -84,9 +84,9 @@ I had the pleasure of presenting the work I did during my Masters at my first AE
 - Model performed well for many species and syllable types but struggled with noisy, high-harmonic sounds.  
 - Shows how compact parametric models can replace large sample libraries for interactive audio and low-latency environments.
 
-- [View Publication →](https://aes2.org/publications/elibrary-page/?id=20578)
-- **Try the model:** https://nemisindo.com/models/birds-real  
-- **Slides from AES presentation:** https://docs.google.com/presentation/d/1jN4gJz_u_SNQ29tM2SL9W5E5qZ2NENw_JlOcnk9y8_w/edit?usp=sharing
+- [View Publication](https://aes2.org/publications/elibrary-page/?id=20578)
+- [Try the model online](https://nemisindo.com/models/birds-real)
+- [Slides from AES presentation](https://docs.google.com/presentation/d/1jN4gJz_u_SNQ29tM2SL9W5E5qZ2NENw_JlOcnk9y8_w/edit?usp=sharing)
 
 
 ---
@@ -98,6 +98,7 @@ I had the pleasure of presenting the work I did during my Masters at my first AE
 - Implemented sample playback, looping, and low-latency reverb in C++.
 
 <div style="overflow-x:auto;">
+  https://youtu.be/rPZqWFPeOiA
   <div style="display:flex;gap:1rem;flex-wrap:nowrap;min-width:640px;">
     <iframe width="320" height="180" src="https://youtu.be/rPZqWFPeOiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
