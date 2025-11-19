@@ -9,7 +9,6 @@
 
 - [About Me](#about-me)
 - [Research Interests](#research-interests)
-- [Education](#education)
 - [Professional Experience](#professional-experience)
 - [Selected Projects](#selected-projects)
 - [Publications & Presentations](#publications--presentations)
@@ -20,53 +19,50 @@
 ---
 ![Profile Picture](img/profile.JPG) 
 
-
-
 ## About Me
 
-Hi, I’m Alejandro Zúñiga, an engineer exploring how technology shapes the way we create and experience sound.
-I’m currently a DSP Software Engineer at Yamaha Corporation in Japan, where I develop and optimize real-time audio effects for professional mixing consoles.
-
-My background blends electronics, signal processing, and creative coding, and my goal is to design tools that make high-quality sound creation more expressive and accessible.
-
-I’m applying to PhD programs in Music Technology, aiming to research real-time sound synthesis, physical modeling, and intelligent audio systems that bridge artistry and engineering. I think the most meaningful sound technologies are those that democratize creativity making expression accessible to everyone.
+I’m currently a DSP Software Engineer at Yamaha Corporation in Japan, where I develop and optimize real-time audio effects for professional mixing consoles. I am engineer exploring how technology shapes the way we create and experience sound. My background blends electronics, signal processing, and creative coding, and my goal is to design tools that make high-quality sound creation more expressive and accessible. I’m applying to PhD programs in Music Technology, aiming to research real-time sound synthesis, physical modeling, and intelligent audio systems that bridge artistry and engineering. I think the most meaningful sound technologies are those that democratize creativity making expression accessible to everyone.
 
 ---
 
 ## Research Interests
 
-- Audio Signal Processing  
-- Sound Synthesis and Physical Modeling  
-- Machine Learning for Audio  
-- Real-Time DSP and Embedded Systems  
-- Cognitive and Perceptual Audio  
-- Procedural Sound Design  
+I’m motivated by democratizing professional-level audio. Elegant algorithmic solutions can make complex workflows accessible to musicians, creators, and everyday users in the same way computational photography did for images.
+I want to create tools and algorithms that enable working musicians and non-experts alike to access high-fidelity, professionally balanced audio. I would like to be able to reduce the technical barrier to great sound and to integrate perceptual models into practical, real-time systems.
 
----
-
-## Education
-
-**Queen Mary University of London** *MEng Electronics with Music and Audio Systems*  
-*2015 – 2019*  
-- Graduated **First Class**  
-- Research project: *Procedural sound synthesis of bird song using particle swarm optimisation*  
-  - Published and presented at **AES 147 Convention (New York, 2019)**  
-- Awards:  
-  - *Third-Year Academic Achievement Prize*  
-  - *1st Place, Design and Build Hackathon (2017)*  
+- Audio signal processing (perceptual models, loudness-aware systems)  
+- Sound synthesis & physical modeling  
+- Machine learning for audio (practical/real-time applications)  
+- Real-time DSP & embedded constraints  
+- Cognitive/perceptual audio and procedural sound design
 
 ---
 
 ## Professional Experience
 
-**Yamaha Corporation** – *DSP Software Engineer*  
-*Hamamatsu, Japan | Jan 2021 – Present*  
-- Researched and implemented DSP algorithms for professional audio products.  
-- Released **Interphase** and **DynamicEQ6** effects for the RIVAGE PM series.  
-- Designed and optimized real-time audio effects systems in C/C++ and embedded DSP.  
-- Collaborated with cross-division R&D teams and contributed to internal prototypes.  
+After graduating my Masters I did a 3 month internship and subsequently have spent 5 years working at Yamaha Professional Audio in Hamamatsu with the DSP team on development and maintenance of audio effects for digital mixing consoles and other platforms. I was the main developer for Interphase and DynamicEQ6, responsible for the DSP algorithms (mainly C++), GUI design, and implementing on SHARC and Yamaha DSP chips, ensuring cross-platform compatibility across consoles and operating systems.
 
-After graduating my Masters I did a 3 month internship and subsequently have spent 4 years working at Yamaha Professional Audio in Hamamatsu with the DSP team on development and maintenance of audio effects for digital mixing consoles and other platforms. I was the main developer for Interphase and DynamicEQ6, responsible for the DSP algorithms (mainly C++), GUI design, and implementing on SHARC and Yamaha DSP chips, ensuring cross-platform compatibility across consoles and operating systems.
+### Interphase (RIVAGE PM Series)
+Interphase is a phase/alignment tool used to align and shape the tone of microphones and pickups (e.g., bass mic vs line, snare front/back).  
+**Features & role:**  
+- Implements Delay, Polarity, and a phase-filter (all-pass) to let engineers adjust phase by frequency to alter timbre.  
+- Visual waveform capture for main and reference signals, plus a correlation meter for agreement between signals.  
+- **Align** function auto-sets Delay Time and Polarity.  
+- I was responsible for DSP and GUI across platforms (SHARC, Windows/Mac tools).  
+- **Constraints/Challenges solved:** real-time safety, cross-platform consistency, and tight DSP budgets on older hardware.
+
+### DynamicEQ6 (RIVAGE PM Series)
+DynamicEQ6 is a six-band dynamic equalizer that extends previous Yamaha dynamic EQ designs. It combines static gain with dynamic range control, adds HP/LP filters per band, per-band key-in filters, an M/S option for the stereo version, and an automatic threshold function that derives a threshold from the incoming signal.  
+**Features & role:**  
+- Implemented the DSP pipeline for multi-band dynamic operation and precise phase management.  
+- Built the visual metering and user interactions.  
+- Implemented automatic threshold heuristics to help engineers set thresholds quickly.  
+- Ensured performance and UX parity across Yamaha’s product line and generations.
+
+**What I personally did:**  
+- Full lifecycle: ideation, algorithm design, coding (DSP & GUI), debugging, and release.  
+- Implemented assembly optimizations for critical processing blocks to meet strict DSP budgets — improving processing load from 96% down to 5% on target hardware (~94.8% reduction).  
+- Collaborated with an illustrator for GUI assets, consulted R&D, marketing, clients, and internal testers for feedback and QA.
 
 <div style="overflow-x:auto;">
   <div style="display:flex;gap:1rem;flex-wrap:nowrap;min-width:640px;">
@@ -76,50 +72,47 @@ After graduating my Masters I did a 3 month internship and subsequently have spe
 </div>
 
 <br>
-**AI Music (London, UK)** – *R&D Intern*  
-*Jun 2018 – Sep 2018*  
-- Developed ML-based adaptive music systems using Python and C++.  
-- Applied digital signal processing and music information retrieval techniques.  
 
 ---
 
 ## 📚 Publications & Presentations {#publications--presentations}
+![aes](https://github.com/user-attachments/assets/46b17d27-ed17-4316-9def-e43f1c236930)
 
-**Zúñiga, J. & Reiss, J. D. (2019).**  
-*Realistic Procedural Sound Synthesis of Bird Song Using Particle Swarm Optimization.*  
-Audio Engineering Society, Paper 555.  
-[View Publication →](https://aes2.org/publications/elibrary-page/?id=20578)
+I had the pleasure of presenting the work I did during my Masters at my first AES attendance as an Engineering Brief. With the help and guidance of Professor Josh Reiss and fellow students we could present this project and add the paper to the AES library. Here are some details of the project:
+- Developed a parametric model to emulate birdsong using fitted Bezier-curve shaped frequency/amplitude modulators.  
+- Used Particle Swarm Optimization to fit model parameters to clean syllable excerpts sourced from the xeno-canto birdsong database.  
+- Model performed well for many species and syllable types but struggled with noisy, high-harmonic sounds.  
+- Shows how compact parametric models can replace large sample libraries for interactive audio and low-latency environments.
+
+- [View Publication →](https://aes2.org/publications/elibrary-page/?id=20578)
+- **Try the model:** https://nemisindo.com/models/birds-real  
+- **Slides from AES presentation:** https://docs.google.com/presentation/d/1jN4gJz_u_SNQ29tM2SL9W5E5qZ2NENw_JlOcnk9y8_w/edit?usp=sharing
+
 
 ---
 
 ## Selected Projects
 
-### 🎵 Birdsong Procedural Synthesis  
-Developed a synthesis algorithm that models bird song using **Particle Swarm Optimization**, generating realistic imitations of multiple species.  
-- [AES Paper 555 (2019)](https://aes2.org/publications/elibrary-page/?id=20578)  
-- Presented at AES 147 Convention, New York.  
-
 ### 🥁 Embedded Drum Machine  
-An interactive drum system using the **BELA embedded platform** with piezo sensors and loop editing features.  
-Implemented real-time reverb and looping with C++.  
+- Real-time embedded drum system using the BELA platform with piezo sensors for hit detection, loop editing, and simple on-board effects.  
+- Implemented sample playback, looping, and low-latency reverb in C++.
+<iframe width="320" height="180" src="https://youtu.be/rPZqWFPeOiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 🎸 Eightyfier – 80’s Guitar Effect Plugin  
 A **VST plugin** recreating classic 1980s guitar tones using multi-effects DSP.  
 - [GitHub Repo](https://github.com/Alexzb8/Eightyfier)  
 - [Technical Write-up](https://docs.google.com/document/d/1Bc7VeBnCKVataHoZVy_KxXeIfGjrFAlfoQkw9Zypl0E/edit?usp=sharing)  
 
-### 🚗 CarSim (PureData + JavaScript)  
-A web app that simulates environmental soundscapes using **granular synthesis** and real-time visual interaction.  
-- [Demo](http://www.astecnologias.com/carsim/CARSIM.html)  
-- [GitHub](https://github.com/Alexzb8/CarSim-PureData-JS)  
-
-### 🕹️ Escape Game  
-A point-and-click horror game built with JavaScript, combining audio design and interactive storytelling.  
-- [Play Online](http://www.astecnologias.com/escapeGame/escapeGame.html)  
-- [GitHub](https://github.com/Alexzb8/escapeGame)  
-
 ### 🎚️ MXR Dist Pedal Clone  
 A handmade guitar pedal clone of the classic MXR distortion pedal. Built from scratch, I was amazed by the rich, detailed harmonics from such a simple design. Currently exploring filtering techniques and working toward a dream pedal: a headphone-friendly, line-level signal processor for apartment living without an amp. 
+
+<audio src="/assets/videosAudio/allGain.mp3" controls>
+Your browser does not support the audio tag.
+</audio>
+
+<audio src="/assets/videosAudio/highGain.mp3" controls>
+Your browser does not support the audio tag.
+</audio>
 
 <div style="overflow-x:auto;">
   <div style="display:flex;gap:1rem;flex-wrap:nowrap;min-width:640px;">
@@ -165,7 +158,5 @@ I'm committed to continuing **Japanese** even after leaving Japan. It's brutally
 ## 📫 Contact {#contact}
 
 - 📧 **jorgealejandrozb@gmail.com**  
-- 🌐 [WordPress Blog](https://jorgezunigablog.wordpress.com/)  
-- 💻 [GitHub Projects](https://github.com/AlexZuni)  
 
 ---
