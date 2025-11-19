@@ -127,26 +127,20 @@ Your browser does not support the audio tag.
 
 ### 🎸 Music & Instruments
 
-I picked up **drums** as a teenager my first instrument and taught myself mostly by ear, playing rock and blues with school friends. During university, apartment living forced a creative pivot: I switched to **guitar** to keep music alive, and now I play daily. It's part of my routine, whether jamming with family or just exploring sounds alone.
-
-In recent years I've grown into **jazz**, particularly ballads from the golden age (1950s–60s). I didn't grow up with it, but I'm grateful to live in an era where I can discover incredible artists like **Bill Evans**, **Chet Baker**, and **Louis Armstrong** anytime. While I play drums and guitar, these piano and trumpet masters inspire my listening.
+Music has been part of my life since I learned drums as a teenager; later, living in apartments led me to switch to guitar, which I now play daily. I started by listening to rock and blues but now I’m especially drawn to jazz ballads from artists like Bill Evans, Chet Baker, and Louis Armstrong.
 
 ### 📸 Creative Hobbies
 
-I love **movies**, **reading**, and **photography**. Cinema has been a lifelong passion since childhood trips to the theater with my parents. I still go whenever something interesting releases. For books, I gravitate toward **fantasy** and **sci-fi** (George R. R. Martin's *A Song of Ice and Fire* universe captivates me), and lately I've been reading English classics like *Dracula* and *Frankenstein* on my e-reader.
+I enjoy photography—mostly with my Fujifilm XT1—and documenting trips and everyday life in Japan. I also love cinema and reading; I gravitate toward fantasy, sci-fi, and classic literature.
 
-After moving to Japan, I picked up a **Fujifilm XT1** camera and have been documenting trips and local parks ever since. Printing my favorite shots is my preferred way to preserve memories. There's something irreplaceable about physical prints.
+### 🏔️ Lifestyle & Learning
 
-### 🏔️ Personality & Adventure
+I’m naturally curious and detail-oriented, and I enjoy keeping a clean, organized workspace. Hiking and road trips around Japan have become a favorite way to unwind. I’m also committed to continuing my Japanese studies, which has been one of the most challenging and rewarding parts of living abroad.
 
-I'd describe myself as **curious** and sometimes obsessively **detail-oriented**. A clean workspace helps me think clearly and dodge distractions. I genuinely believe I'll never be bored there's always something new to learn or experience.
+---
 
-Since getting a car in Japan, I've explored hiking around nearby mountains, which has become a favorite escape. The blend of nature and the challenge of discovering new trails keeps me engaged.
-
-### 📚 Language & Learning
-
-I'm committed to continuing **Japanese** even after leaving Japan. It's brutally challenging but incredibly rewarding. The language opens doors to culture, relationships, and ways of thinking I'm eager to keep exploring.
-
+<img width="1600" height="1068" alt="image" src="https://github.com/user-attachments/assets/f478e5e8-0de9-4610-b895-39119c68276a" />
+Some long exposure bracket photography in Hakone.
 
 ---
 
