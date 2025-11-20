@@ -27,7 +27,7 @@ I’m currently a DSP Software Engineer at Yamaha Corporation in Japan, where I 
 
 ## Research Interests
 
-I’m motivated by democratizing professional-level audio. Elegant algorithmic solutions can make complex workflows accessible to musicians, creators, and everyday users in the same way computational photography did for images.
+I’m motivated by  the need for democratizing professional-level audio. There have to be better solutions that can make complex workflows accessible to musicians, creators, and everyday users in the same way computational photography did for images.
 I want to create tools and algorithms that enable working musicians and non-experts alike to access high-fidelity, professionally balanced audio. I would like to be able to reduce the technical barrier to great sound and to integrate perceptual models into practical, real-time systems.
 
 - Audio signal processing (perceptual models, loudness-aware systems)  
@@ -61,7 +61,7 @@ DynamicEQ6 is a six-band dynamic equalizer that extends previous Yamaha dynamic 
 
 **What I personally did:**  
 - Full lifecycle: ideation, algorithm design, coding (DSP & GUI), debugging, and release.  
-- Implemented assembly optimizations for critical processing blocks to meet strict DSP budgets — improving processing load from 96% down to 5% on target hardware (~94.8% reduction).  
+- Implemented assembly optimizations for critical processing blocks to meet strict DSP budgets improving processing load from 96% down to 5% on target hardware (~94.8% reduction).  
 - Collaborated with an illustrator for GUI assets, consulted R&D, marketing, clients, and internal testers for feedback and QA.
 
 <div style="overflow-x:auto;">
@@ -78,7 +78,7 @@ DynamicEQ6 is a six-band dynamic equalizer that extends previous Yamaha dynamic 
 ## 📚 Publications & Presentations {#publications--presentations}
 ![aes](https://github.com/user-attachments/assets/46b17d27-ed17-4316-9def-e43f1c236930)
 
-I had the pleasure of presenting the work I did during my Masters at my first AES attendance as an Engineering Brief. With the help and guidance of Professor Josh Reiss and fellow students we could present this project and add the paper to the AES library. Here are some details of the project:
+I had the pleasure of presenting the work I did with Professor Josh Reiss during my Masters at my first AES attendance as an Engineering Brief and paper. With the help and guidance of Professor Josh Reiss and fellow students we could present this project and add the paper to the AES library. Here are some details of the project:
 - Developed a parametric model to emulate birdsong using fitted Bezier-curve shaped frequency/amplitude modulators.  
 - Used Particle Swarm Optimization to fit model parameters to clean syllable excerpts sourced from the xeno-canto birdsong database.  
 - Model performed well for many species and syllable types but struggled with noisy, high-harmonic sounds.  
@@ -96,7 +96,7 @@ I had the pleasure of presenting the work I did during my Masters at my first AE
 
 ### 🥁 Embedded Drum Machine  
 - Real-time embedded drum system using the BELA platform with piezo sensors for hit detection, loop editing, and simple on-board effects.  
-- Implemented sample playback, looping, and low-latency reverb in C++.
+- Implemented sample playback, looping, and reverb in C++.
 
 <div style="overflow-x:auto;">
   https://youtu.be/rPZqWFPeOiA
@@ -111,7 +111,7 @@ A **VST plugin** recreating classic 1980s guitar tones using multi-effects DSP.
 - [Technical Write-up](https://docs.google.com/document/d/1Bc7VeBnCKVataHoZVy_KxXeIfGjrFAlfoQkw9Zypl0E/edit?usp=sharing)  
 
 ### 🎚️ MXR Dist Pedal Clone  
-A handmade guitar pedal clone of the classic MXR distortion pedal. Built from scratch, I was amazed by the rich, detailed harmonics from such a simple design. Currently exploring filtering techniques and working toward a dream pedal: a headphone-friendly, line-level signal processor for apartment living without an amp. 
+A handmade guitar pedal clone of the classic MXR distortion pedal. Built from scratch, I was amazed by the rich, detailed harmonics from such a simple design. Currently exploring filtering techniques and working toward a dream pedal: a headphone-friendly, line-level output signal processor for apartment living without an amp. 
 
 <audio src="/assets/videosAudio/allGain.mp3" controls>
 Your browser does not support the audio tag.
@@ -127,15 +127,15 @@ Your browser does not support the audio tag.
 
 ### 🎸 Music & Instruments
 
-Music has been part of my life since I learned drums as a teenager; later, living in apartments led me to switch to guitar, which I now play daily. I started by listening to rock and blues but now I’m especially drawn to jazz ballads from artists like Bill Evans, Chet Baker, and Louis Armstrong.
+Music has been a constant part of my life since I learned drums as a teenager; later, living in apartments led me to switch to guitar, which I now play daily. I started by listening to rock and blues but now I’m especially drawn to classic jazz ballads played by artists like Bill Evans, Chet Baker, and Louis Armstrong.
 
 ### 📸 Creative Hobbies
 
-I enjoy photography—mostly with my Fujifilm XT1—and documenting trips and everyday life in Japan. I also love cinema and reading; I gravitate toward fantasy, sci-fi, and classic literature.
+I enjoy photography mostly with my Fujifilm XT1 and documenting trips and everyday life in Japan. I also love cinema and reading; I gravitate toward fantasy, sci-fi, and classic literature.
 
 ### 🏔️ Lifestyle & Learning
 
-I’m naturally curious and detail-oriented, and I enjoy keeping a clean, organized workspace. Hiking and road trips around Japan have become a favorite way to unwind. I’m also committed to continuing my Japanese studies, which has been one of the most challenging and rewarding parts of living abroad.
+I’m naturally curious and detail-oriented, and I enjoy keeping a clean, organized workspace. Hiking and road trips have become a favorite way to unwind. I’m also committed to continuing my Japanese studies, which has been one of the most challenging and rewarding parts of living abroad.
 
 ---
 
