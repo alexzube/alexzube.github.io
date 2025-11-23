@@ -138,20 +138,28 @@ I’m naturally curious and detail-oriented, and I enjoy keeping a clean, organi
 
 ---
 
-![hakone](img/hakone.png) 
-Some long exposure bracket photography in Hakone.
-
-![chuo_alps](img/Chuo-alps.JPG)
-Hiking the Japanese Chuo Alps
-
-![chuo_alps](img/snowboard.jpg)
-My second time snowboarding
-
-![chuo_alps](img/guitar.jpg)
-Playin' my friend's Yamaha
-
-![chuo_alps](img/crochet.JPG)
-Crochet cardigan I made for my partner
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: start;">
+  <div>
+    <img src="img/hakone.png" alt="hakone" style="width: 100% !important; max-width: 100% !important; height: auto; display: block;">
+    <p style="text-align: center; margin-top: 0.5rem;">Some long exposure bracket photography in Hakone.</p>
+  </div>
+  <div>
+    <img src="img/snowboard.jpg" alt="snowboard" style="width: 100% !important; max-width: 100% !important; height: auto; display: block;">
+    <p style="text-align: center; margin-top: 0.5rem;">My second time snowboarding</p>
+  </div>
+  <div>
+    <img src="img/Chuo-alps.JPG" alt="chuo_alps" style="width: 100% !important; max-width: 100% !important; height: auto; display: block;">
+    <p style="text-align: center; margin-top: 0.5rem;">Hiking the Japanese Chuo Alps</p>
+  </div>  
+  <div>
+    <img src="img/guitar.jpg" alt="guitar" style="width: 100% !important; max-width: 100% !important; height: auto; display: block;">
+    <p style="text-align: center; margin-top: 0.5rem;">Playing my friend's Yamaha</p>
+  </div>
+  <div>
+    <img src="img/crochet.JPG" alt="crochet" style="width: 100% !important; max-width: 100% !important; height: auto; display: block;">
+    <p style="text-align: center; margin-top: 0.5rem;">Crochet cardigan I hand made for my partner</p>
+  </div>
+</div>
 
 ---
 
