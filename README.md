@@ -19,6 +19,15 @@
 ---
 ![Profile Picture](img/profile.JPG) 
 
+---
+
+## 📫 Contact {#contact}
+
+- 📧 **jorgealejandrozb@gmail.com**  
+- 📄 [CV (PDF)](assets/Alex%20CV%20PHD.pdf)
+
+---
+
 ## About Me
 
 I’m currently a DSP Software Engineer at Yamaha Corporation in Japan, where I develop and optimize real-time audio effects for professional mixing consoles. I am engineer exploring how technology shapes the way we create and experience sound. My background blends electronics, signal processing, and creative coding, and my goal is to design tools that make high-quality sound creation more expressive and accessible. I’m applying to PhD programs in Music Technology, aiming to research real-time sound synthesis, physical modeling, and intelligent audio systems that bridge artistry and engineering. I think the most meaningful sound technologies are those that democratize creativity making expression accessible to everyone.
