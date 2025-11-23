@@ -138,13 +138,26 @@ I’m naturally curious and detail-oriented, and I enjoy keeping a clean, organi
 
 ---
 
-<img width="1600" height="1068" alt="image" src="https://github.com/user-attachments/assets/f478e5e8-0de9-4610-b895-39119c68276a" />
+![hakone](img/hakone.png) 
 Some long exposure bracket photography in Hakone.
+
+![chuo_alps](img/Chuo-alps.JPG)
+Hiking the Japanese Chuo Alps
+
+![chuo_alps](img/snowboard.jpg)
+My second time snowboarding
+
+![chuo_alps](img/guitar.jpg)
+Playin' my friend's Yamaha
+
+![chuo_alps](img/crochet.JPG)
+Crochet cardigan I made for my partner
 
 ---
 
 ## 📫 Contact {#contact}
 
 - 📧 **jorgealejandrozb@gmail.com**  
+- 📄 [CV (PDF)](assets/Alex%20CV%20PHD.pdf)
 
 ---
