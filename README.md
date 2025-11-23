@@ -99,10 +99,9 @@ I had the pleasure of presenting the work I did with Professor Josh Reiss during
 - Implemented sample playback, looping, and reverb in C++.
 
 <div style="overflow-x:auto;">
-  https://youtu.be/rPZqWFPeOiA
-  <div style="display:flex;gap:1rem;flex-wrap:nowrap;min-width:640px;">
-    <iframe width="320" height="180" src="https://youtu.be/rPZqWFPeOiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="320" height="180" src="https://www.youtube.com/embed/rPZqWFPeOiA?si=HH8eOO35UYo5fWq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
+  
 </div>
 
 ### 🎸 Eightyfier – 80’s Guitar Effect Plugin  
