@@ -121,6 +121,8 @@ A **VST plugin** recreating classic 1980s guitar tones using multi-effects DSP.
 ### 🎚️ MXR Dist Pedal Clone  
 A handmade guitar pedal clone of the classic MXR distortion pedal. Built from scratch, I was amazed by the rich, detailed harmonics from such a simple design. Currently exploring filtering techniques and working toward a dream pedal: a headphone-friendly, line-level output signal processor for apartment living without an amp. 
 
+![Pedal](img/pedal.jpg) 
+
 <audio src="/assets/videosAudio/allGain.mp3" controls>
 Your browser does not support the audio tag.
 </audio>
