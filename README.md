@@ -98,6 +98,10 @@ I had the pleasure of presenting the work I did with Professor Josh Reiss during
   - I recommend setting a preset and pressing the play button to listen.
 - [Slides from AES presentation](https://docs.google.com/presentation/d/1jN4gJz_u_SNQ29tM2SL9W5E5qZ2NENw_JlOcnk9y8_w/edit?usp=sharing)
 
+Here's what it sounds like:
+<audio src="/assets/videosAudio/birds.mp3" controls>
+Your browser does not support the audio tag.
+</audio>
 
 ---
 
@@ -116,18 +120,27 @@ I had the pleasure of presenting the work I did with Professor Josh Reiss during
 ### 🎸 Eightyfier – 80’s Guitar Effect Plugin  
 A **VST plugin** recreating classic 1980s guitar tones using multi-effects DSP.  
 - [GitHub Repo](https://github.com/Alexzb8/Eightyfier)  
-- [Technical Write-up](https://docs.google.com/document/d/1Bc7VeBnCKVataHoZVy_KxXeIfGjrFAlfoQkw9Zypl0E/edit?usp=sharing)  
+- [Technical Write-up](https://docs.google.com/document/d/1Bc7VeBnCKVataHoZVy_KxXeIfGjrFAlfoQkw9Zypl0E/edit?usp=sharing)
 
-### 🎚️ MXR Dist Pedal Clone  
-A handmade guitar pedal clone of the classic MXR distortion pedal. Built from scratch, I was amazed by the rich, detailed harmonics from such a simple design. Currently exploring filtering techniques and working toward a dream pedal: a headphone-friendly, line-level output signal processor for apartment living without an amp. 
-
-![Pedal](img/pedal.jpg) 
-
-<audio src="/assets/videosAudio/allGain.mp3" controls>
+Audio sample:
+<audio src="/assets/videosAudio/rhythm.mp3" controls>
 Your browser does not support the audio tag.
 </audio>
 
-<audio src="/assets/videosAudio/highGain.mp3" controls>
+### 🎚️ MXR Dist Pedal Clone  
+A handmade guitar pedal clone of the classic MXR distortion pedal. Built from scratch, I was amazed by the rich, detailed harmonics from such a simple design. Currently exploring filtering techniques and working toward a dream pedal: a headphone-friendly, line-level output signal processor for apartment living without an amp. Currently, I just play electric guitar without an amp to avoid disturbing neighbors and also because of convenience but I wish there was a way to get a rock sound from the guitar without having to plug into something or have bulky pedal setup. Like a vox guitar but with a feeling of the sound coming from the guitar itself, like from a 335's sound holes.
+
+![Pedal](img/pedal.jpg) 
+
+<audio src="/assets/videosAudio/guitar.mp3" controls>
+Your browser does not support the audio tag.
+</audio>
+
+### 🎧 Recording and translation
+
+I adapted Haruomi Hosono's "Rock-A-Bye My Baby" to Spanish and recorded guitar/vocals for it. Its hard to keep the same meaning and structure at the same time.
+
+<audio src="/assets/videosAudio/Alex_Rock_a_bye.mp3" controls>
 Your browser does not support the audio tag.
 </audio>
 
@@ -145,7 +158,7 @@ I enjoy photography mostly with my Fujifilm XT1 and documenting trips and everyd
 
 ### 🏔️ Lifestyle & Learning
 
-I’m naturally curious and detail-oriented, and I enjoy keeping a clean, organized workspace. Hiking and road trips have become a favorite way to unwind. I’m also committed to continuing my Japanese studies, which has been one of the most challenging and rewarding parts of living abroad.
+Hiking and road trips have become a favorite reason to travel. I’m also committed to continuing my Japanese studies, which has been one of the most challenging and rewarding parts of living abroad.
 
 ---
 
