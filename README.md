@@ -114,8 +114,7 @@ Your browser does not support the audio tag.
 <div style="overflow-x:auto;">
     <iframe width="320" height="180" src="https://www.youtube.com/embed/rPZqWFPeOiA?si=HH8eOO35UYo5fWq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
-  
-</div>
+
 
 ### 🎸 Eightyfier – 80’s Guitar Effect Plugin  
 A **VST plugin** recreating classic 1980s guitar tones using multi-effects DSP.  
